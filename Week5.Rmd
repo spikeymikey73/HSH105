@@ -1,13 +1,7 @@
 ---
-title: "Untitled"
+title: "Week 5"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
+  How is a family established? Relationship formation, divorce and repartnering
 output: distill::distill_article
 ---
 

@@ -1,13 +1,7 @@
 ---
-title: "Untitled"
+title: "Week 9"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
+  What challenges do families face? Drug use, violence and gambling.
 output: distill::distill_article
 ---
 

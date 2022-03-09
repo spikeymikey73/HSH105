@@ -1,18 +1,58 @@
 ---
-title: "HSH105"
+title: "HSH105 Understanding Families and Health"
 description: |
-  Week 1 notes
-site: distill::distill_website
+  Unit Guide
+output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+### Unit Weekly Activities
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+| Week | Commencing | Topic | Assessment due date |
+| ---- | ---------- | ----- | ------------------- |
+| 1 | 7 MAR 22 | What is a family? Introduction to contemporary family structures | |
+| 2 | 14 MAR 22 | What is a family? Diversity in families | |
+| 3 | 21 MAR 22 | How do we understand the family? Bronfenbrenner's bioecological model | |
+| 4 | 28 MAR 22 | How do we understand the family? Family theories | |
+| 5 | 4 APR 22 | How is a family established? Relationship formation, divorce and repartnering | Assessment 1 due by 8:00pm AEST 6 APR 2022 |
+| 6 | 11 APR 22 | How is a family established? Parenthood | Assessment 2 (Group Charter) due by 8:00pm AEST 13 APR 2022 |
+| 7 | 25 APR 22 | What challenges do families face? Balancing work and family life | |
+| 8 | 2 MAY 22 | What challenges do families face? Financial issues | Assessment 2 (Presentation slides) due by 8:00pm AEST 4 MAY 2022 |
+| 9 | 9 MAY 22 | What challenges do families face? Drug use, violence and gambling | Assessment 2 (Small group presentations) during seminars |
+| 10 | 16 MAY 22 | What are the environments impacting family health and wellbeing? | Assessment 2 (Small group presentations) during seminars Assessment 2 (Self-assessment) due by 8:00pm AEST 18 MAY 22 |
+| 11 | 23 MAY 22 | What conclusions can we draw about families and health? |
+| Study Week | 30 MAY 22 | No new content | Assessment 3 due by 8:00pm AEST 1 JUN 2022 |
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+**Intra-trimester break: 15 - 24 APR 22 (inclusive)**
 
-```
+Recommended learning resources
+The Deakin Software Library provides students with access to software that you may need or find useful for your study at Deakin.
+The following is a range of additional references you may find useful at times during the study of this unit, including when completing assessment tasks:
 
+### Journals
+
+Australian Journal of Marriage and the Family
+Australian Journal of Family Therapy
+Family Matters
+Family Relations: Interdisciplinary Journal of Applied Family Studies
+Journal of Family Studies
+Journal of Family Theory and Review
+Journal of Home Economics Institute of Australia
+
+### Databases
+
+Families & Society Collection
+SocINDEX with Full Text
+Sociology: A SAGE Full-text Collection
+
+
+### Websites
+
+[Australian Bureau of Statistics](www.abs.gov.au/)
+
+[Australian Institute of Family Studies](www.aifs.gov.au/)
+
+[Australian Institute of Health and Welfare](www.aihw.gov.au/)
+
+[Families Australia](www.familiesaustralia.org.au/)
+
+[National Council on Family Relations](www.ncfr.org/)
