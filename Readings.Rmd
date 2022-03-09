@@ -1,0 +1,24 @@
+---
+title: "HPS105 Reading List"
+description: |
+  Reading List
+output: distill::distill_article
+---
+
+Week|Title|Note for Student|
+----|-----|----------------|
+1|[Families Then & Now: Households and families](http://resourcelists.lib.deakin.edu.au/items/886491D7-0929-8CF1-4098-5874B5BDE10E.html)|
+2|[Building a new life in Australia (BNLA): The longitudinal study of humanitarian migrants - Findings from the first three waves](http://resourcelists.lib.deakin.edu.au/items/DCA0B57C-4278-426C-5202-9227CC96BB23.html)|NOTE: Only read pages 106-107.|
+2|[Building a New Life in Australia (BNLA): The Longitudinal Study of Humanitarian Migrants - Wave 5 Update](http://resourcelists.lib.deakin.edu.au/items/CCD738DD-6AA7-D0BB-70C2-2F5092B5126E.html)|NOTE: Look at Look at Figures 5.3, 5.4 and 7.1. Read the Sections on ‘Self-sufficiency’ and 'Community support and participation' on pages 20-22.|
+3|[Family as a health promotion setting: A scoping review of conceptual models of the health-promoting family](http://resourcelists.lib.deakin.edu.au/items/38B598A9-683D-C86D-2BFA-0705241E1E31.html)|NOTE: You do not need to read Table 1 or Table 2.|
+3|[Examining risk factors for overweight and obesity in children with disabilities: a commentary on Bronfenbrenner's ecological systems framework](http://resourcelists.lib.deakin.edu.au/items/4DAD98C8-820B-3305-57D0-524833A4CD09.html)|
+4|[Studying Marriages and Families](http://resourcelists.lib.deakin.edu.au/items/ADFA4EF9-E1F4-8183-FFE0-94A404C8340A.html)|NOTE: This ebook has limited concurrent users - Restricted Printing. If in use, please try again later.|
+5|[Coming Apart: Separation and Divorce](http://resourcelists.lib.deakin.edu.au/items/75B6AB0D-88DD-412E-B225-1D128AF30663.html)|NOTE: This ebook has limited concurrent users - Restricted Printing. If in use, please try again later.|
+6|[Parenting Today in Victoria: Report of Key Findings](http://resourcelists.lib.deakin.edu.au/items/7EE39228-04D6-B5C3-B79C-10F24224D806.html)|NOTE: Only read the Executive summary (pages 14-24).|
+6|["The transition to parenthood for Australian heterosexual couples: expectations, experiences and the partner relationship"](http://resourcelists.lib.deakin.edu.au/items/FA8AEC4B-036B-0262-36FD-A0DE37D01D17.html)|
+7|[Families working together: Getting the balance right](http://resourcelists.lib.deakin.edu.au/items/EDE066B5-39AC-2844-4450-CA847E2A7902.html)|
+7|[Long hours and longings: Research summary](http://resourcelists.lib.deakin.edu.au/items/057F714A-C70A-CC54-054F-7954ADB2E5E4.html)|
+8|[Household economic wellbeing](http://resourcelists.lib.deakin.edu.au/items/47279B6D-D6A7-EDC3-258E-E552472924B8.html)|NOTE: Only read sections on Income Poverty (pages 41-47) and Welfare Reliance (pages 47-55).|
+9|[Challenges in the family: Problematic substance use and sibling relationships](http://resourcelists.lib.deakin.edu.au/items/9E62CD49-D574-D24E-553D-839E2C770506.html)|
+9|[7. Gambling activity among teenagers and their parents](http://resourcelists.lib.deakin.edu.au/items/C2042F52-C0E0-38C9-277B-F24FC9FB9106.html)|NOTE: Please only read the KEY FINDINGS and the SUMMARY of this report.|
+10|[Children and young people's wellbeing post-disaster: Safety and stability are critical](http://resourcelists.lib.deakin.edu.au/items/D579F965-95EC-638E-CC10-A5B590D08270.html)|

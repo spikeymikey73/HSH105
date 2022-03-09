@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Unit Guide"
       href: index.html
+    - text: "Reading List"
+      href: Readings.html
     - text: "Week 1"
       href: Week1.html
     - text: "Week 2"
