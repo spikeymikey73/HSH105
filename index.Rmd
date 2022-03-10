@@ -1,7 +1,7 @@
 ---
-title: "HSH105 Understanding Families and Health"
+title: "Unit Guide"
 description: |
-  Unit Guide
+  HSH105 - Understanding Families and Health
 output: distill::distill_article
 ---
 
@@ -21,38 +21,3 @@ output: distill::distill_article
 | 10 | 16 MAY 22 | What are the environments impacting family health and wellbeing? | Assessment 2 (Small group presentations) during seminars Assessment 2 (Self-assessment) due by 8:00pm AEST 18 MAY 22 |
 | 11 | 23 MAY 22 | What conclusions can we draw about families and health? |
 | Study Week | 30 MAY 22 | No new content | Assessment 3 due by 8:00pm AEST 1 JUN 2022 |
-
-**Intra-trimester break: 15 - 24 APR 22 (inclusive)**
-
-Recommended learning resources
-The Deakin Software Library provides students with access to software that you may need or find useful for your study at Deakin.
-The following is a range of additional references you may find useful at times during the study of this unit, including when completing assessment tasks:
-
-### Journals
-
-Australian Journal of Marriage and the Family
-Australian Journal of Family Therapy
-Family Matters
-Family Relations: Interdisciplinary Journal of Applied Family Studies
-Journal of Family Studies
-Journal of Family Theory and Review
-Journal of Home Economics Institute of Australia
-
-### Databases
-
-Families & Society Collection
-SocINDEX with Full Text
-Sociology: A SAGE Full-text Collection
-
-
-### Websites
-
-[Australian Bureau of Statistics](www.abs.gov.au/)
-
-[Australian Institute of Family Studies](www.aifs.gov.au/)
-
-[Australian Institute of Health and Welfare](www.aihw.gov.au/)
-
-[Families Australia](www.familiesaustralia.org.au/)
-
-[National Council on Family Relations](www.ncfr.org/)
