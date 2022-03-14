@@ -5,4 +5,44 @@ description: |
 output: html_document
 ---
 
+The Australian Bureau of Statistics (2016, para. 1) defines a ‘family’ as:
 
+“...two or more persons, one of whom is at least 15 years of age, who are related by blood, marriage (registered or de facto), adoption, step or fostering, and who are usually resident in the same household... Each separately identified couple relationship, lone parent-child relationship or other blood relationship forms the basis of a family. Some households will therefore contain more than one family.” 
+
+- (ABS, 2016, para. 2).
+
+```{r echo = FALSE}
+library(DiagrammeR)
+mermaid("
+graph LR;
+  A[Australian Familes<br />and Households]
+  B[Family<br />Households]
+  C[Lone Person<br />Households]
+  D[Group<br />Households]
+  E[Couple<br />Families]
+  F[One Parent<br />Families]
+  G[Other<br />Families]
+  H[Married? De-facto?<br />Same Sex? Blended?]
+  I[With<br />Children]
+  J[With<br />Children]
+  K[No<br />Children]
+  L[Dependant/<br />Non-Dependant]
+  M[Biological, Step,<br />Adopted, Foster]
+  N[Dependant/<br />Non-Dependant]
+  O[Biological, Step,<br />Adopted, Foster]
+
+  A --> B
+  A --> C
+  A --> D
+  B --> E
+  B --> F
+  B --> G
+  E --> H
+  H --> J
+  H --> K
+  I --> L
+  I --> M
+  J --> N
+  J --> O
+")
+```

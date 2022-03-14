@@ -32,6 +32,14 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="site_libs/d3-3.3.8/d3.min.js"></script>
+<script src="site_libs/dagre-0.4.0/dagre-d3.min.js"></script>
+<link href="site_libs/mermaid-0.3.0/dist/mermaid.css" rel="stylesheet" />
+<script src="site_libs/mermaid-0.3.0/dist/mermaid.slim.min.js"></script>
+<link href="site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
+<script src="site_libs/chromatography-0.1/chromatography.js"></script>
+<script src="site_libs/DiagrammeR-binding-1.0.9/DiagrammeR.js"></script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -310,7 +318,14 @@ $(document).ready(function () {
 </div>
 
 
-
+<p>The Australian Bureau of Statistics (2016, para. 1) defines a ‘family’ as:</p>
+<p>“…two or more persons, one of whom is at least 15 years of age, who are related by blood, marriage (registered or de facto), adoption, step or fostering, and who are usually resident in the same household… Each separately identified couple relationship, lone parent-child relationship or other blood relationship forms the basis of a family. Some households will therefore contain more than one family.”</p>
+<ul>
+<li>(ABS, 2016, para. 2).</li>
+</ul>
+<pre><code>## Warning: package &#39;DiagrammeR&#39; was built under R version 4.0.5</code></pre>
+<div id="htmlwidget-044533f1c6f61caa258b" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-044533f1c6f61caa258b">{"x":{"diagram":"\ngraph LR;\n  A[Australian Familes<br />and Households]\n  B[Family<br />Households]\n  C[Lone Person<br />Households]\n  D[Group<br />Households]\n  E[Couple<br />Families]\n  F[One Parent<br />Families]\n  G[Other<br />Families]\n  H[Married? De-facto?<br />Same Sex? Blended?]\n  I[With<br />Children]\n  J[With<br />Children]\n  K[No<br />Children]\n  L[Dependant/<br />Non-Dependant]\n  M[Biological, Step,<br />Adopted, Foster]\n  N[Dependant/<br />Non-Dependant]\n  O[Biological, Step,<br />Adopted, Foster]\n\n  A --> B\n  A --> C\n  A --> D\n  B --> E\n  B --> F\n  B --> G\n  E --> H\n  H --> J\n  H --> K\n  I --> L\n  I --> M\n  J --> N\n  J --> O\n"},"evals":[],"jsHooks":[]}</script>
 
 
 
