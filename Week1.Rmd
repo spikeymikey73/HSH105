@@ -1,18 +1,20 @@
 ---
-title: "Week 1"
-description: |
-  What is a family? Introduction to contemporary family structures
+title: "Week 1: What is a family? Introduction to contemporary family structures"
 output: html_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(DiagrammeR)
+```
+
 The Australian Bureau of Statistics (2016, para. 1) defines a ‘family’ as:
 
-“...two or more persons, one of whom is at least 15 years of age, who are related by blood, marriage (registered or de facto), adoption, step or fostering, and who are usually resident in the same household... Each separately identified couple relationship, lone parent-child relationship or other blood relationship forms the basis of a family. Some households will therefore contain more than one family.” 
+“...two or more persons, one of whom is at least 15 years of age, who are related by blood, marriage (registered or de facto), adoption, step or fostering, and who are usually resident in the same household... Each separately identified couple relationship, lone parent-child relationship or other blood relationship forms the basis of a family. Some households will therefore contain more than one family.”
 
 - (ABS, 2016, para. 2).
 
 ```{r echo = FALSE}
-library(DiagrammeR)
 mermaid("
 graph LR;
   A[Australian Familes<br />and Households]
@@ -38,6 +40,7 @@ graph LR;
   B --> F
   B --> G
   E --> H
+  F --> I
   H --> J
   H --> K
   I --> L
@@ -46,3 +49,12 @@ graph LR;
   J --> O
 ")
 ```
+
+![Key Trends](Images/Week1/key_trends.png)
+
+
+
+
+
+
+
