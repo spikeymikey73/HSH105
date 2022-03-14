@@ -1,7 +1,6 @@
 name: "HSH105 - Understanding Families and Health"
 title: "HSH105"
-description: |
-  HSH105 Class Notes
+description: "HSH105 Class Notes"
 output_dir: "docs"
 navbar:
   right:
@@ -34,4 +33,5 @@ navbar:
         - text: "Week 11"
           href: Week11.html
       
-output: distill::distill_article
+output:
+  html_document

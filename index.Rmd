@@ -2,7 +2,7 @@
 title: "Unit Guide"
 description: |
   HSH105 - Understanding Families and Health
-output: distill::distill_article
+output: html_document
 ---
 
 ### Unit Weekly Activities

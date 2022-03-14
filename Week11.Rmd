@@ -2,7 +2,7 @@
 title: "Week 11"
 description: |
   What conclusions can we draw about families and health?
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

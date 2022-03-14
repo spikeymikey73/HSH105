@@ -2,7 +2,7 @@
 title: "Week 6"
 description: |
   How is a family established? Parenthood
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

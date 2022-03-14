@@ -2,7 +2,7 @@
 title: "Week 5"
 description: |
   How is a family established? Relationship formation, divorce and repartnering
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

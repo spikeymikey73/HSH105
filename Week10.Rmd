@@ -2,7 +2,7 @@
 title: "Week 10"
 description: |
   What are the environments impacting family health and wellbeing?
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

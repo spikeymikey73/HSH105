@@ -2,7 +2,7 @@
 title: "Week 2"
 description: |
   What is a family? Diversity in families
-site: distill::distill_website
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

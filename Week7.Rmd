@@ -2,7 +2,7 @@
 title: "Week 7"
 description: |
   What challenges do families face? Balancing work and family life
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

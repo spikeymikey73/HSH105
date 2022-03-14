@@ -2,7 +2,7 @@
 title: "Week 9"
 description: |
   What challenges do families face? Drug use, violence and gambling.
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}

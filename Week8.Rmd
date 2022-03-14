@@ -2,7 +2,7 @@
 title: "Week 8"
 description: |
   What challenges do families face? Financial issues
-output: distill::distill_article
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
