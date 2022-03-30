@@ -9,11 +9,28 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+## Family Theories {.tabset}
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+### Macro
 
+**Macro Theories** focus on the family as a social institution.
 
+| Theory                   | Main Idea                                                                                     | Application                                                                            | Proposition                                                        |
+|--------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Family Ecology           | Family life and children’s outcomes are influenced by the contexts in which they are embedded | This theory helps to examine the impacts of the neighbourhood on families              | Families are dependent on their environments for survival          |
+| Structural Functionalism | This theory acknowledges that the family plays a specific role in socialising children        | This theory can be used to critique modern‐day families to see how well they perform   | According to this theory, the family is a key social institution   |
+| Conflict Theory          | This theory places the emphasis on power imbalances                                           | This theory might be used to examine issues around unequal division of domestic labour | This theory recognises that people are motivated by self‐ interest |
+| Feminist Theory          | Male dominance in society and in the family can be oppressive of women                        | This theory can be used to examine the issue of domestic violence                      | This theory recognises the role of power and inequality            |
 
+### Micro
 
+**Micro Theories** focus on the relationships between members within families
 
+| Theory                  | Main Idea                                                                 | Application                                                                       | Proposition                                                                        |
+|-------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Symbolic interactionism | This theory focuses on how people make sense of the world around them.    | Society teaches us the meaning of objects and events                              | This theory is interested in roles and the meaning family members attach to them   |
+| Social Exchange theory  | Applies an economic perspective to social relationships                   | This theory could be used to explore decision‐making around marriage and divorce  | The rewards and costs are weighed up when making decisions                         |
+| Developmental Theory    | Based on the theme that families experience predictable changes over time | Examples includes the timing of leaving the parental home                         | Focuses on whether transitions undertaken by family members are ‘on’ or ‘off’ time |
+| Family Systems Theory   | The family as a whole unit is more than the sum of its parts              | This theory is often used in family therapy to help family members resolve crises | Families, as examples of systems, seek equilibrium and balance                     |
+
+## {-}
