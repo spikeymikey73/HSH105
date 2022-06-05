@@ -1,0 +1,92 @@
+---
+bibliography: References.bib
+linestretch: 2
+fontsize: 14pt
+csl: apa.csl
+output: 
+  pdf_document:
+    includes:
+      before_body: title.tex
+---
+\begin{center}
+\textbf{Becoming Parents As A Same Sex Couple}
+\end{center}
+
+Planning
+
+| Section                         | Description                              | Word Count     |
+|---------------------------------|------------------------------------------|----------------|
+| Intro                           |                                          | 100            |
+| Overview of Challenge / Issue   |                                          | 150            |
+| Health Impacts x 4              |                                          | 150 each (600) |
+| Bronfenbrenner's model          | Brief description                        | 50             |
+| -                               | Analysis of 3 setting outside the family | 150 each (450) |
+| 3 x strategies to reduce impact | One reference per strategy               | 50 each (150)  |
+| Conclusion                      |                                          | 100            |
+| Total Word count                |                                          | 1600           |
+
+## Instructions
+
+### Choose your topic
+
+As you have learnt throughout this unit, contemporary families face a number of challenges.
+Choose ONE of the following challenges/issues to research for this assessment task:
+BECOMING PARENTS AS A SAME SEX COUPLE (e.g. accessing assisted reproductive technology)
+DOMESTIC AND FAMILY VIOLENCE @sigelmanLifeSpanHuman2018
+
+### Research
+
+In preparing your assessment, you should draw on contemporary (e.g. published in the last 10 years) and relevant literature. This can include the readings from the unit (excluding recording notes); peer-reviewed journal articles; textbooks; statistical information from the Australian Bureau of Statistics, Australian Institute of Family Studies (e.g. National Framework for Protecting Australia's Children) or Australian Institute of Health and Welfare; government reports; or other online materials from credible sources (.gov, .org or .edu sites, but do not use .net or .com sites).
+
+It is recommended you have at least 10-12 references for this assessment task. You put all your references on the one ‘Reference’ page at the end of the assignment (as per APA7 referencing). @sigelmanLifeSpanHuman2018
+
+### Prepare your report
+
+Your written response needs to include the following: 
+
+*A. Introduction*
+
+You need to include an introduction (approximately 100 words) that includes a brief statement to set the context and identifies what your assessment will cover in terms of the overview of the challenge/issue, the health impacts, the influence of other settings families engage with and recommendations. This acts to 'signpost' to your reader what content will follow in your response. 
+
+*B. Overview of the challenge/issue*
+
+This section (approximately 150 words) builds on your introduction to provide more context for your assessment. You need to describe the challenge/issue (e.g. How is it defined?) and outline how common it is among Australian families using current statistics (e.g. from the Australian Bureau of Statistics or Australian Institute of Health and Welfare). 
+
+*C. Health impacts of the challenge/issue*
+
+You will need to explain four health impacts (approximately 150 words per health impact for a total of 600 words) this challenge/issue has on family members (e.g. parents and/or children). You might discuss impacts in terms of physical, mental or social health. 
+
+In this section, you need to include current information, but you can draw on both Australian and international literature. 
+
+*D. Influence of other settings families engage with*
+
+Briefly describe Bronfenbrenner's bioecological model (approximately 50 words). 
+
+Use Bronfenbrenner's bioecological model to analyse three additional settings (e.g. beyond the immediate family) (approximately 150 words per setting for a total of 450 words) that may influence a family's experience of this challenge/issue. In analysing each of the three settings, you need to explain how each one might affect the family's experience either positively or negatively. 
+
+Examples of settings you might like to consider include children's day care/school or peer relationships, extended family, parents' workplace or even engagement in the legal system. 
+
+Note that you do not need to discuss settings from every layer of the model. Instead, this section requires you to select the three most relevant settings in respect to your challenge/issue. 
+
+Remember that you must substantiate all statements by citing their source (e.g. reports, peer-reviewed journal articles, online materials etc). You can draw on both Australian and international literature. 
+
+*E. Recommended strategies to manage the challenge/issue*
+
+You need to briefly identify three clear strategies (approximately 50 words each) families could adopt to reduce the impacts of this challenge/issue. 
+
+These recommendations should be supported by references. 
+
+*F. Conclusion*
+
+You should include a conclusion (approximately 100 words) that summarises the main points of your assessment. This should not introduce new concepts and does not require in-text citations (as all of the information you summarise should have already been cited in the body of your report). 
+
+### Format your assignment
+Please include a cover page with the title of the assessment task (i.e. HSH105 AT3 Written Assessment), your name, student number, word count and referencing style (APA7)
+The use of sub-headings is recommended to structure your assignment
+You should use at least size 12 font and 1.5 line spacing. Please use a standard font (e.g. Arial, Calibri, Times New Roman)
+In-text citations are included in the word count. Reference list is not included in the word count 
+
+
+\newpage
+
+# References 

@@ -1,0 +1,41 @@
+---
+bibliography: References.bib
+linestretch: 1.5
+fontsize: 12pt
+csl: apa.csl
+output:
+  word_document: default
+  pdf_document:
+    includes:
+      before_body: title.tex
+---
+
+# Question 1
+
+Data collected by the Australian Bureau of Statistics at various points in the last decade has suggested that the number of couple families without children has decreased sightly between 2006 and 2016, however, are projected to almost equal the number of families with children by 2041. While numbers remained steady at around 2.7 million couple families without children between the 2006/2007 and 2012/2013 financial years, this figure decreased slightly to around 2.5 million in 2016 [@abs2015]. Couple families without children in Australia are projected to number 3.4 to 3.6 million by 2041 [@abs2019]. 
+
+The comparison of @derose examines a number of theories around traditional roles of men and women in families with children, particularly in relation to a cultural shift around these traditional roles. Of particular note, is the increasing financial difficulty in raising children, and cost of living pressures may motivate a couple to forego raising children as a multi-faceted economic decision. Further evidence provided by @cooke compares the incomes of both men and women in Australia, the United Kingdom and the United States. The findings in this comparison suggest that there is an intrinsic financial penalty associated with parenthood, borne more sharply by women in all countries as a result of their exiting and re-entering the workforce.
+
+A second explanation for the projected rise in the incidence of couple families without children is also financial, however, is more closely linked to education status. @waren found that in a large number of cases, partnered women were more likely to be in a couple family without children as a consequence of a higher career status and education level. Childless women in this category tend to have career trajectories similar to their male counterparts, in that they have fewer breaks (if any), or time away from work spending less than a third of the time away from work as mothers [@waren].
+
+# Question 2
+
+For Aboriginal Children, the Mesosystem layer of Bronfenbrenner's model differs to that of Western families as a result of their kinship, rather than the traditionally Western nuclear family. Within this family structure, a child will have multiple mothers, fathers, uncles, aunts, brothers, sisters and cousins [@noauthor]. Each of these levels of kinship interact with each other to raise all of the children collectively, rather than parents raising their own biological children.
+
+While the interactions between home, families, schools, peers and friends can be challenging for most families and individuals at any given time, the challenges for Indigenous Australians can be exacerbated further as a result of being part of two separate cultures, with differing views on the family and its role in society [@noauthor]. According to the interviews conducted with members of an Aboriginal family by @mccabe, a great number of health care professionals and service based organisations are potentially unaware of the family dynamics in play, which can complicate interactions even further, leaving many Indigenous Australians feeling misunderstood, or unwelcome.
+
+@mccabe demonstrates the need for Aboriginal men within a family and wider society to model positive relationships for their children, and act as role models within their families for children to follow and garner support. Further discussion around the difficulties for Aboriginal men as role models within their societies highlights several challenges, such as the availability of culturally appropriate health care within Aboriginal communities. @mccabe also goes on to explain that the positive functioning of all layers of Bronfenbrenner's model is the primary responsibility of the men in an Aboriginal community, therefore, their health is tied to their ability to perform this role, and is of utmost importance to ensure that they are contributing appropriately to their families in ways that are not typical of most Australian families.
+
+While evidence confirms that the typical Aboriginal family differs significantly from traditional Western families, the culture surrounding Aboriginal families and their kinship are a source of great pride within a family. The bonds shared within the family unit provide children with multiple levels of support and nurturance from all within the family [@zubrick].
+
+# Question 3
+
+As at the 2006/2007 financial year, single parent families constituted around 14% of all families in Australia [@abs2015]. The projections presented by the Australian Bureau of Statistics [@abs2019] regarding the numbers and types of families residing within Australia show a minimal increase to around 16% of all families, with little change to this figure between 2006 and 2016. Other sources in this space suggest that the incidence of single parent families is growing, and estimating that single parent families account for around 22% of all families in 2004/2006 [@healey] 
+
+@healey suggests that there are a large number of factors that could impact the parent-child relationship. One impact of particular note is that of work or income. A single parent may not be in a position to be able to provide for their children to the same extent as a parent couple, particularly a couple who both have an income. Difficulties can arise for a single parent having to manage groceries, rent (or mortgage), electricity, phone, and other standard of living costs. These difficulties can create friction within the household, meaning that the family dynamic can change as a result. The children may have to provide more assistance in running the household than they may have previously been accustomed to.
+
+On the positive side of the change dynamic, @healey also suggests that a single parent family may be a positive environment in which to raise children. In the case that a single mother, and her children are no longer subjected to ongoing or regular instances of violence or abuse, it can be a far more comfortable environment for mother and children to have their own space and a more relaxed household in general. The further benefit of this could also be that the children in the family may have previously felt that they had to protect their parent, however, can now focus on their own goals and interests. While a new single parent family may have adjustments to make in terms of how the dynamics between members shift over time, being able to move away from a violent or dangerous situation can have positive effects on wellbeing for all members of the family. 
+
+\newpage
+
+# References 
